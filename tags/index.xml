@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portfolio Arne Sercu</title>
-    <link>https://arnesercu.000webhostapp.com/tags/</link>
+    <link>https://asercu.github.io/tags/</link>
     <description>Recent content in Tags on Portfolio Arne Sercu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://arnesercu.000webhostapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asercu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
