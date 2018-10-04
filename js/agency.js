@@ -17,7 +17,7 @@ $(document).ready(function(){
   });
 
   // Navigation change on scroll
-  var maxOffset = 300;
+  /*var maxOffset = 1;
   $(window).scroll(function() {
     if ($(window).scrollTop() >= maxOffset) {
       $('.navbar-default').addClass('navbar-shrink');
@@ -27,19 +27,19 @@ $(document).ready(function(){
     }
   });
 
-  var maxOffset = 300;
+  var maxOffset = 1;
   if ($(window).scrollTop() >= maxOffset) {
     $('.navbar-default').addClass('navbar-shrink');
   }
   else {
     $('.navbar-default').removeClass('navbar-shrink');
   }
-});
+});*/
 
 // Highlight the top nav as scrolling occurs
-$('body').scrollspy({
+/*$('body').scrollspy({
     target: '.navbar-fixed-top'
-})
+})*/
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {

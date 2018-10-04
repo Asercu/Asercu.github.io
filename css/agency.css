@@ -427,6 +427,7 @@ section h3.section-subheading {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
+    height: 70px;
     text-align: center;
     background-color: #fff;
 }
@@ -873,13 +874,14 @@ ul.social-buttons li a:active {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    text-align: justify;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
 
 .portfolio-modal .modal-content h2 {
+    text-align: center;
     margin-bottom: 15px;
     font-size: 3em;
 }
@@ -888,11 +890,16 @@ ul.social-buttons li a:active {
     margin-bottom: 30px;
 }
 
+.portfolio-modal .modal-content .modalbutton {
+    text-align: center;
+}
+
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
+    text-align: center;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
