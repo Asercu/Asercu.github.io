@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://asercu.github.io/posts/testpost/</loc>
+    <lastmod>2018-07-08T13:00:45+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asercu.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://asercu.github.io/</loc>
+    <lastmod>2018-07-08T13:00:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asercu.github.io/posts/</loc>
+    <lastmod>2018-07-08T13:00:45+02:00</lastmod>
     <priority>0</priority>
   </url>
   
